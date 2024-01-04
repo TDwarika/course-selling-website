@@ -1,4 +1,4 @@
-# course-selling-website
+## course-selling-website
 A  Course Selling Website featuring User-friendly Dashboard 
 facilitating seamless account creation, course exploration and Purchasing 
 Functionality (excluding payment gateway) and Admin Dashboard provides 
